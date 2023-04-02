@@ -1,4 +1,4 @@
-50 Days of JavaScript
+<h1>50 Days of JavaScript</h1>
 This is a repository for the 50 Days of JavaScript challenge, which is designed to help you improve your skills in JavaScript and web development. The challenge consists of 50 mini-projects, each of which focuses on a different aspect of JavaScript and web development.
 
 Getting Started
