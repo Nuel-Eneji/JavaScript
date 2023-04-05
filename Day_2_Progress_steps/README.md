@@ -14,8 +14,8 @@ This is a simple progress step bar built using JavaScript. It allows you to disp
 To use the progress step bar, you need to include the following files in your HTML code:
 
 <code>
-    <link rel="stylesheet" href="progress-step-bar.css">
-    <script src="progress-step-bar.js"></script>
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js"></script>
 </code>
 
 <h3>Customization</h3>
